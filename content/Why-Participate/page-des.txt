@@ -1,0 +1,15 @@
+<h2>Why Participate?</h2>
+
+<div class="row des">
+We live in interesting times! The Internet of Things is moving ever closer to becoming
+
+mainstream, and new solutions are being built using connected devices to elegantly solve age
+
+old, complex problems. From simply making things more convenient through home automation,
+
+to conserving scarce natural resources by using smart metering, and even saving lives through
+
+connected healthcare, the combination of hardware and software is revolutionizing everything
+
+we know about our world today.
+</div>

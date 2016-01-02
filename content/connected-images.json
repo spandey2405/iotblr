@@ -1,0 +1,8 @@
+{
+  "class": "col-sm-4",
+  "images": {
+    "image1": "src/images/conn-devices1.jpg",
+    "image2": "src/images/conn-devices2.png",
+    "image3": "src/images/conn-devices3.jpg"
+  }
+}

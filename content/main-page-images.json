@@ -1,0 +1,11 @@
+{
+  "class": "col-sm-4",
+  "heading": "Image Gallery",
+  "images": {
+    "image1": "images/home/cleen_city.jpg",
+    "image2": "images/home/conn-devices1.jpg",
+    "image3": "images/home/conn-devices2.png",
+    "image4": "images/home/conn-devices3.jpg",
+    "image6": "images/home/iot1.png"
+  }
+}

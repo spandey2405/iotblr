@@ -1,0 +1,39 @@
+{
+  "section-0": {
+    "style":"4",
+    "image" : {
+      "image-url" : "images/home/cleen_city.jpg"
+    }
+  },
+  "section-1": {
+    "style":"4",
+    "image" : {
+      "image-url" : "images/home/conn-devices1.jpg"
+    }
+  },
+  "section-2": {
+    "style":"4",
+    "image" : {
+      "image-url" : "images/home/conn-devices2.png"
+    }
+  },
+  "section-3": {
+    "style":"4",
+    "image" : {
+      "image-url" : "images/home/conn-devices3.jpg"
+    }
+  },
+  "section-4": {
+    "style":"4",
+    "image" : {
+      "image-url" : "images/home/int_lookins_i_rgb_3000.png"
+    }
+  },
+  "section-5": {
+    "style":"4",
+    "image" : {
+      "image-url" : "iot1.png"
+    }
+  }
+
+}

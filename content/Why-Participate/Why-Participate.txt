@@ -1,0 +1,78 @@
+<div class="row des" >
+The IESA & IoTBLR Connected Devices Makeathon gives you the opportunity to rapidly
+prototype your idea. Here are 5 reasons why you should participate:
+</div>
+
+<h3>1. Bring your idea to life</h3>
+<div class="row des" >
+If you have been thinking of a connected devices idea, no matter
+how ambitious, futuristic or seemingly-impossible, now is the time to make it a reality!
+There is no theme for this makeathon, so you can apply with any idea that you have
+been keen to try out.
+</div>
+
+
+
+
+<h3>2. Access to equipment</h3>
+<div class="row des" >
+To help you rapidly prototype your idea, all participating teams
+will be provided Intel Edison and Grove Sensor Kits. You can take these boards and kits
+home after the event. Please feel free to bring other sensors, radios, etc that you may
+need according to your preference and suitability to your usecase. There will also be
+other basic equipment like breadboards, multimeters, soldering stations, etc available at
+the venue, should you need them. Full list here: <a href='Equipment.php' class='btn btn-blue'> Equipment List </a>
+</div>
+
+
+
+<h3>3. Significant exposure</h3>
+<div class="row des" >
+This Makeathon will be happening along with IESA’s flagship
+event, the Vision Summit <hyperlink>, where several experts, industry veterans,
+investors, etc will be in attendance and keen to see innovative prototypes. Furthermore,
+the winners of the Makeathon will receive their awards at the Innovation Awards
+Showcase happening as part of the Vision Summit across the road at the Leela Palace.
+</div>
+
+
+
+<h3>4. Prizes</h3>
+<div class="row des" >
+    We have lined up great prizes for the Makeathon! <br><br>
+    <ul>
+        <li>
+            a. There is a significant prize pool for teams that can outclass the rest!
+            <ul>
+            <li>1st Prize: INR 1,00,000/- </li>
+            <li>2nd Prize: INR 75,000/- </li>
+            <li>3rd Prize: INR 50,000/- </li>
+            </ul>
+        </li>
+        <li>
+           Top 3 teams will get prototyping support from INDIC – support, guidance and
+           costs (except materials) for up to 3 rounds of prototyping
+        </li>
+        <li>
+            Top 3 teams will get an opportunity to get incubated at Revvx, to take their Proof
+            of Concept forward towards productization
+        </li>
+            All teams will get the opportunity to speak to potential customers at Vision
+            Summit and beyond, through IESA’s network
+        </li>
+    </ul>
+</div>
+
+
+
+<h3>5. It’s fun and it’s free</h3>
+<div class="row des" >
+Come join the Makeathon, work with like-minded teammates,
+brainstorm with expert mentors, push yourself to rapidly prototype your idea, and have
+fun doing it. We’ll provide you a super-charged environment, good food and great
+company. And all of this is being done to encourage the use of new technology in
+bringing new ideas to life, so there are no entry fees or participation charges. However,
+participation to this event is by selection only and limited to 8-10 teams, so <a href='Apply.php' class='btn btn-blue'>
+Apply Now </a>
+with a compelling idea and increase your chances of selection!
+</div>

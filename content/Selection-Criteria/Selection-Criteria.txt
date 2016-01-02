@@ -1,0 +1,33 @@
+<h3>1. There must be hardware</h3>
+<div class="row des">
+This is a connected devices makeathon, so we require you to
+build device(s) and connect them to other devices. Software-only ideas will not be
+selected, neither will be hardware that is stand-alone and not connected to anything (at
+the very least, it should be connected to another device, mobile phone or gateway and
+not necessarily to a cloud or other devices via the internet).
+</div>
+
+
+<h3>2. No Work-In-Progress projects allowed</h3>
+<div class="row des">
+2. No Work-In-Progress projects allowed - In the spirit of making, we prefer that teams
+build their solutions from scratch at this Makeathon rather than coming in with an idea
+they have already been working on for some time. Use this as an opportunity to quickly
+prototype a new idea that you are excited to explore.
+</div>
+
+
+<h3>3. Build something innovative</h3>
+<div class="row des">
+We are keen to push the boundaries of what we can
+imagine and what we believe to be possible. So we encourage you to apply with out of
+the box ideas. If it excites or intrigues us, we’ll invite you to come and build it in 2 days!
+</div>
+
+
+
+<h3>4. Build something impactful</h3>
+<div class="row des">
+Can your solution solve challenges in the real world? Are
+you addressing a significant pain point for someone? If so, we’ll support you in
+</div>

@@ -1,0 +1,7 @@
+<h2>Selection Criteria</h2>
+
+<div class="row" style="padding:20px; font-size:17px; width:96%" >
+This Makeathon is a freeform, non-restrictive event which doesn’t prescribe any theme, so that
+you can freely work on any idea that has captured your imagination! Having said that, here are
+some guidelines that we are using to pick teams to participate in this highly selective event:
+</div>
