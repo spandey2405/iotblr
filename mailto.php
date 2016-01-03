@@ -8,21 +8,9 @@ if($_POST) {
     $subject = $_POST['subject'];
     $message = "
 <html>
-<head>
-<title>HTML email</title>
-</head>
 <body>
-<p>This email contains HTML Tags!</p>
-<table>
-<tr>
-<th>Firstname</th>
-<th>Lastname</th>
-</tr>
-<tr>
-<td>John</td>
-<td>Doe</td>
-</tr>
-</table>
+<h1>Message From : $name</h1>
+<p>$text</p>
 </body>
 </html>
 ";
@@ -31,7 +19,7 @@ if($_POST) {
     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
 // More headers
-    $headers .= "From: <spandey2405@gmail.com>" . "\r\n";
+    $headers .= "From: <$from>" . "\r\n";
     mail($to,$subject,$message,$headers);
     echo "Testing";
 }
