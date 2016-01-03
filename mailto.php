@@ -6,7 +6,7 @@ if($_POST) {
     $header = $_POST['email'];
     $text= $_POST['message'];
     $subject = $_POST['subject'];
-    $text = "<h1>Message From :".$name."</h1><br><br>".$text;
+    $text .= "<h1>Message From :".$name."</h1><br><br>".$text;
     mail($to,$subject,$txt,$headers);
     echo "Testing";
 }
