@@ -46,6 +46,10 @@ $("#query").click(function () {
     }
     $.post("mailto.php", Data, function (data) {
     alert("Thanks for Contracting Us")
+    $("name").val(""),
+    $("email").val(""),
+    $("subject").val(""),
+    $("message").val("")
     });
 });
 </script>
