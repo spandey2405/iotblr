@@ -39,17 +39,17 @@ echo '<div class="kode-event-contact">
 <script>
 $("#query").click(function () {
     var Data = {
-    "name": $("name").val(),
-    "email": $("email").val(),
-    "subject": $("subject").val(),
-    "mail": $("message").val()
+    "name": $("#name").val(),
+    "email": $("#email").val(),
+    "subject": $("#subject").val(),
+    "mail": $("#message").val()
     }
     $.post("mailto.php", Data, function (data) {
     alert("Thanks for Contracting Us")
-    $("name").val(""),
-    $("email").val(""),
-    $("subject").val(""),
-    $("message").val("")
+    $("#name").val("");
+    $("#email").val("");
+    $("#subject").val("");
+    $("#message").val("");
     });
 });
 </script>
