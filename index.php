@@ -14,29 +14,27 @@ include "src/helpers/display_images.php";
 <head>
     <title>Home | IOTBLR</title>
     <?php display_header_files(); ?>
-    <style>
-
-    </style>
 </head>
 <body>
 
 <?php include 'src/lib/header.php'; ?>
 
 <?php include 'src/lib/slider.php'; ?>
-
-<?php include 'src/lib/Banner.php'; ?>
-
-<?php display_images("content/main-page-images.json"); ?>
-
-<div class="container">
-    <div class="row" style="padding-left:20px; font-size:16px; width:96%" >
-        <p></p>
-    </div>
-    <?php include 'src/lib/prizes.php'; ?>
-    <br><br><br>
-
+<br><br>
+<div class="bg-white">
+    <center><h3>“The IESA and IoTBLR Connected Devices Makethon”<h3></center>
 </div>
-
+<section id="photos"><br><br>
+<center><img src="images/6.png"></center>
+    <br><br>
+</section>
+<br><br>
+<div class="bg-white">
+    <center><h3>“A 2-day Makeathon to build Connected Devices, on Feb 3-4 2016, at Sterlings Mac Hotel, Bangalore. Come join us to learn, hack and have some fun!”.<h3>
+    <input type="button" class="btn btn-green" onclick="location.href='Apply.php'" value="Apply Now">
+    </center>
+</div>
+<br><br>
 <div class="bg-white">
     <h3>PRESENTED BY </h3>
     <img src="src/images/Presentor1.jpeg" height="150">

@@ -17,8 +17,6 @@ include "src/helpers/display_images.php";
 <body>
 
 <?php include 'src/lib/header.php'; ?>
-<?php include 'src/lib/slider.php'; ?>
-<?php include 'src/lib/Banner.php'; ?>
 
 <div class="container">
     <?php echo file_get_contents("content/Equipment/page-des.txt"); ?>
@@ -28,7 +26,7 @@ include "src/helpers/display_images.php";
             <div class='col-sm-12'>
 
                 <?php echo file_get_contents("content/Equipment/Equipment.txt"); ?>
-
+                <br><br>
             </div>
         </div>
     </div>

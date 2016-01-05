@@ -9,7 +9,6 @@ and a complete team!<br><br>
 <p><input type="button" class="btn btn-blue" value="Application Form"></p>
 </div>
 <div class="row" style="padding:20px; font-size:17px; width:96%" >
-    <p>Please feel free to read through our Selection Criteria <link to Selection Criteria page> before
-
+    <p>Please feel free to read through our <a href='Selection-Criteria.php' class='btn btn-blue'>Selection Criteria</a>  before
     applying.</p>
     </div>

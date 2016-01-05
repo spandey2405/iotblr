@@ -1,4 +1,4 @@
-<h2>Equipments</h2>
+<h2>Equipment</h2>
 
 <div class="row" style="padding:20px; font-size:17px; width:96%" >
 We will endeavour to provide all the basic, commonly used components and equipment that you

@@ -1,7 +1,7 @@
 <?php
 
 if($_POST) {
-    $to = 'spandey2405@gmail.com';
+    $to = 'nihal.kashinath@iotblr.org';
     $name = $_POST['name'];
     $from = $_POST['email'];
     $text= $_POST['message'];

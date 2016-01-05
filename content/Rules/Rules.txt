@@ -4,9 +4,10 @@
 
 
 <div class="row des">
-    2. You are encouraged to apply as a team. If you do not have a team but have an
-    outstanding idea, you can apply as an individual and find other individuals at the match-
-    up event on Day 0 to form a team. However, applications received as a team have an
+    2. You are encouraged to apply as a team. If you do not have a team but have an outstanding idea,
+    you can apply as an individual and then contact us at <a href='nihal.kashinath@iotblr.org'>nihal.kashinath@iotblr.org</a>
+    letting us know that you do not have a team. We will then try to help you form a team
+    .However, applications received as a team have an
     advantage and are more likely to be selected than applications from individuals who do
     not have a team that can build the prototype.
 </div>
@@ -20,6 +21,12 @@
         </li>
         <li>
             Please choose your teammates to cover the skills required for your idea. For
+
+            e.g., if a mobile app is critical to your idea, ensure that you have an app
+
+            developer as part of your team. If you need a particular skill but are unable to fill
+
+            that position, let us know in advance.
         </li>
         <li>
             In the spirit of learning and innovation, there are no restrictions on age for
@@ -43,7 +50,8 @@
 
 
 <div class="row des">
-    5. Equipment - You are welcome to bring your own equipment if you foresee the need for it
+    5. Equipment - All projects to be built on Intel Edison board, which will be provided by us.
+    You are welcome to bring your own equipment if you foresee the need for it
     and it is not available in equipment list <link to Equipment page>. We would like to
     preserve/replenish our equipment, so equipment provided by us is to be returned in
     good working condition after the event, or will be available for sale (at equipments’ cost
@@ -58,42 +66,64 @@
 
 <div class="row des">
     7. Ownership
+    <ul>
     <li>
         Your IP remains yours and the organisers do not claim ownership to any of your
+
+        work as part of this event.
     </li>
     <li>
         However, you are encouraged to open source your projects and foster
+
+        innovation, at your own discretion.
     </li>
     <li>
         Please do not violate any IP or copyrights owned by others. Those doing so will
+
+        be disqualified from the event. Onus is on the teams to verify that they are not
+
+        infringing any IP and all teams will be asked to indemnify the organisers from any
+
+        issues arising related to IP.
     </li>
     <li>
         As this is an open forum, ideas are openly available to all participants, visitors,
-        work as part of this event.
-        innovation, at your own discretion.
-        be disqualified from the event. All teams will be asked to indemnify the
-        organisers from any issues arising out of IP infringement.
+
         guests, etc before, during and after the event. We are therefore unable to
+
         entertain any requests to sign NDAs, non-compete clauses, etc.
     </li>
+    </ul>
 </div>
 
 <div class="row des">
     8. Disqualification
+    <ul>
     <li>
         Copyright violations, cheating, recklessness and endangering others,
+
+        disrespectful behaviour, immoral acts, illegal acts, use of alcohol and/or banned
+
+        substances at the event, being under the influence during the event, etc are
+
+        strictly not allowed and will lead to immediate disqualification.
     </li>
     <li>
-        Dropping out of the hackathon before the conclusion on Day 2 also leads to
-        disqualification of the individual/team. All prizes won will be forfeited in such
-        cases.
+       Dropping out of the hackathon before the conclusion on Day 2 also leads to
+
+       disqualification of the individual/team. All prizes won will be forfeited in such
+
+       cases.
     </li>
     <li>
         Disqualification includes but is not limited to any or all of the following: being sent
+
+        away from the event, prizes being forfeited, legal action being initiated, etc.
     </li>
     <li>
         Organising team’s decision will be final in all such matters.
     </li>
+    </ul>
 </div>
 
 <div class="row des">
@@ -108,3 +138,4 @@
     10. By participating in the Makeathon, you confirm that you have read and agreed to all the
     rules and regulations stated above.
 </div>
+<br><br>

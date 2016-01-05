@@ -103,8 +103,6 @@ include "src/helpers/display_images.php";
 <body>
 
 <?php include 'src/lib/header.php'; ?>
-<?php include 'src/lib/slider.php'; ?>
-<?php include 'src/lib/Banner.php'; ?>
 
 
 <div class="container">
@@ -113,42 +111,12 @@ include "src/helpers/display_images.php";
 <div class='scheduletabs'>
     <!-- Nav tabs -->
     <ul class='nav nav-tabs' role='tablist'>
-        <li role='presentation' class='active'><a href='#home' role='tab' data-toggle='tab' aria-expanded='true'><span>Day 1</span>25/1/2016</a></li>
-        <li role='presentation' class=''><a href='#profile-1' role='tab' data-toggle='tab' aria-expanded='false'><span>Day 2</span>26/1/2016</a></li>
-        <li role='presentation' class=''><a href='#profile-2' role='tab' data-toggle='tab' aria-expanded='false'><span>Day 3</span>27/1/2016</a></li>
+        <li role='presentation' class='active'><a href='#profile-1' role='tab' data-toggle='tab' aria-expanded='false'><span>Day 2</span>Feb 3, 2016</a></li>
+        <li role='presentation' class=''><a href='#profile-2' role='tab' data-toggle='tab' aria-expanded='false'><span>Day 3</span>Feb 4, 2016</a></li>
     </ul>
     <div class='tab-content'>
-        <div role='tabpanel' class='tab-pane active' id='home'>
-            <div class='panel-group' id='accordion' role='tablist' aria-multiselectable='true'><br><br>
-                <?php
 
-                $time = ['18:30 - 18:45', '18:45 - 20:00', '18:45 - 20:00'];
-                $eventname = ['Welcome note, agenda, rules',
-                    'Idea pitching: 5-minute presentations by participants on their ideas',
-                    'Team formation: Based on ideas, individual participants join Teams'];
-                $count = 0;
-                foreach($time as $event) {
-                    echo "
-                    <div class='overflow'>
-                        <div class='panel-heading' role='tab' id='headingOne1'>
-                            <h4>
-                                $event - <b>$eventname[$count]</b>
-                            </h4>
-                        </div>
-                        <div id='collapseOne1' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='headingOne1'>
-                            <div class='panel-body'>
-                                <p></p>
-                            </div>
-                        </div>
-                    </div>
-                ";
-                    $count +=1;
-                }
-                ?>
-            </div>
-        </div>
-
-        <div role='tabpanel' class='tab-pane' id='profile-1'>
+        <div role='tabpanel' class='tab-pane active' id='profile-1'>
             <div class='panel-group' id='accordion11' role='tablist' aria-multiselectable='true'><br><br>
                 <?php
 
@@ -189,7 +157,7 @@ they want to)'];
                 <?php
 
                 $time = ['9:00 - 10:00', '10:00 - 10:30', '10:30 - 13:00',
-                '13:00 - 13:30', '13:30 - 14:00', '14:00 - 15:30' , '6:30 - 17:00', '17:00 18:00'
+                '13:00 - 13:30', '13:30 - 14:00', '14:00 - 15:30' , '16:30 - 17:00', '17:00 18:00'
                 ];
                 $eventname = ['Breakfast', 'Progress check', 'Makeathon',
                     'Final touches and preparation for judge’s rounds', 'Lunch', 'Demos with presentations at Sterlings Mac Hotel',

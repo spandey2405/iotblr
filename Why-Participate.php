@@ -18,11 +18,6 @@ include "src/helpers/display_images.php";
 
 <?php include 'src/lib/header.php'; ?>
 
-<?php include 'src/lib/slider.php'; ?>
-
-<?php include 'src/lib/Banner.php'; ?>
-
-
 <div class="container">
     <?php echo file_get_contents('content/Why-Participate/page-des.txt'); ?>
 
@@ -30,6 +25,7 @@ include "src/helpers/display_images.php";
     <div class='section'>
         <div class='container'>
             <div class='col-sm-12'>
+
 
                 <!--  Page Content -->
                 <?php echo file_get_contents('content/Why-Participate/Why-Participate.txt');?>

@@ -18,21 +18,15 @@ include "src/helpers/display_images.php";
 
 <?php include 'src/lib/header.php'; ?>
 
-<?php include 'src/lib/slider.php'; ?>
-
-<?php include 'src/lib/Banner.php'; ?>
-
-
 <div class="container">
     <?php echo file_get_contents('content/Selection-Criteria/page-des.txt'); ?>
-    <?php display_images("content/connected-images.json"); ?>
 
     <div class='section'>
         <div class='container'>
             <div class='col-sm-12'>
 
                 <?php echo file_get_contents('content/Selection-Criteria/Selection-Criteria.txt'); ?>
-
+                <br><br>
             </div>
         </div>
     </div>

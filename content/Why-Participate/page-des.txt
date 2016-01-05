@@ -1,5 +1,4 @@
 <h2>Why Participate?</h2>
-
 <div class="row des">
 We live in interesting times! The Internet of Things is moving ever closer to becoming
 
@@ -12,4 +11,8 @@ to conserving scarce natural resources by using smart metering, and even saving 
 connected healthcare, the combination of hardware and software is revolutionizing everything
 
 we know about our world today.
+</div>
+<div class="row des" >
+The IESA & IoTBLR Connected Devices Makeathon gives you the opportunity to rapidly
+prototype your idea. Here are 5 reasons why you should participate:
 </div>

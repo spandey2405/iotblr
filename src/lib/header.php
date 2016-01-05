@@ -23,7 +23,7 @@ echo "
         <span class='icon-bar'></span>
         <span class='icon-bar'></span>
       </button>
-            <a class='navbar-brand' href='#'><img src='src/images/logo.png' style='height:130%;'></a>
+            <a class='navbar-brand0' href='#'><img src='src/images/logo.png' style='height:50px;'></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->

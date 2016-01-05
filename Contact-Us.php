@@ -17,7 +17,6 @@ include "src/helpers/display_images.php";
 <body>
 
 <?php include 'src/lib/header.php'; ?>
-<?php include 'src/lib/slider.php'; ?>
 <div class="container">
 
     <!--    Page Heading -->
@@ -34,15 +33,20 @@ include "src/helpers/display_images.php";
                     <p>134, HAL Airport Rd, Kodihalli, Bengaluru, Karnataka 560017</p>
 
                     <p>Landmarks: Manipal Hospital, Leela Palace</p><br>
-                       <h3> <p>Contact information:</p>
+                       <h3> <p>Contact Information:</p>
                     </h3>
                     <ul style="font-size: 16px;">
-                    <li>For any queries regarding participation, please contact Darshan Virpuaksha at
-                        +919945670936 or darshan@iotblr.org<br><br></li>
-                        <li>
-                            For any queries regarding sponsorship or collaboration, please contact Nihal Kashinath
+                    <li>For any queries regarding participation, please contact Nihal Kashinath at +91
 
-                            at +91 9663374431 or nihal.kashinath@iotblr.org
+                        9663374431 or nihal.kashinath@iotblr.org or Darshan Virpuaksha at +91 9945670936 or
+
+                        darshan@iotblr.org
+
+                        <br><br></li>
+                        <li>
+                            For any queries regarding sponsorship or collaboration, please contact Prajesh Nayak at
+
+                            +91 9008606510 or prajesh@iesaonline.org
                         </li>
                     </ul>
 

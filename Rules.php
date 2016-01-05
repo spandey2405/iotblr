@@ -22,7 +22,6 @@ include "src/helpers/display_images.php";
 <body>
 
 <?php include 'src/lib/header.php'; ?>
-<?php include 'src/lib/slider.php'; ?>
 
 <div class="container">
 
