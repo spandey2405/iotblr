@@ -10,7 +10,7 @@ not necessarily to a cloud or other devices via the internet).
 
 <h3>2. No Work-In-Progress projects allowed</h3>
 <div class="row des">
-2. No Work-In-Progress projects allowed - In the spirit of making, we prefer that teams
+No Work-In-Progress projects allowed - In the spirit of making, we prefer that teams
 build their solutions from scratch at this Makeathon rather than coming in with an idea
 they have already been working on for some time. Use this as an opportunity to quickly
 prototype a new idea that you are excited to explore.
@@ -28,6 +28,9 @@ the box ideas. If it excites or intrigues us, we’ll invite you to come and bui
 
 <h3>4. Build something impactful</h3>
 <div class="row des">
-Can your solution solve challenges in the real world? Are
+Build something impactful - Can your solution solve challenges in the real world? Are
+
 you addressing a significant pain point for someone? If so, we’ll support you in
+
+prototyping it.
 </div>

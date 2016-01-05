@@ -111,8 +111,8 @@ include "src/helpers/display_images.php";
 <div class='scheduletabs'>
     <!-- Nav tabs -->
     <ul class='nav nav-tabs' role='tablist'>
-        <li role='presentation' class='active'><a href='#profile-1' role='tab' data-toggle='tab' aria-expanded='false'><span>Day 2</span>Feb 3, 2016</a></li>
-        <li role='presentation' class=''><a href='#profile-2' role='tab' data-toggle='tab' aria-expanded='false'><span>Day 3</span>Feb 4, 2016</a></li>
+        <li role='presentation' class='active'><a href='#profile-1' role='tab' data-toggle='tab' aria-expanded='false'><span>Day 1</span>Feb 3, 2016</a></li>
+        <li role='presentation' class=''><a href='#profile-2' role='tab' data-toggle='tab' aria-expanded='false'><span>Day 2</span>Feb 4, 2016</a></li>
     </ul>
     <div class='tab-content'>
 

@@ -11,7 +11,7 @@ echo '<div class="kode-event-contact">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <form class="contactusform">
-                    <h3>Send Us Message</h3>
+                    <h3>Contact Us</h3>
                     <div class="row">
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                             <input type="text" placeholder="Your Name" id="name">

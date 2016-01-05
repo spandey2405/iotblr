@@ -1,7 +1,7 @@
 <h2>Apply</h2>
 
 <div class="row" style="padding:20px; font-size:17px; width:96%" >
-Thank you for your interest in applying to the IESA and IoTBLR Connected Devices Makeathon.
+Thank you for your interest in applying to the IESA and IoTBLR Connected Devices Makeathon, to be held on Feb 3-4, 2016, at Sterlings Mac Hotel, Bangalore.
 
 To increase your chances of being invited to participate in this event, apply with a great idea
 

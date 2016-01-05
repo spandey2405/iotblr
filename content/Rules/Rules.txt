@@ -6,8 +6,8 @@
 <div class="row des">
     2. You are encouraged to apply as a team. If you do not have a team but have an outstanding idea,
     you can apply as an individual and then contact us at <a href='nihal.kashinath@iotblr.org'>nihal.kashinath@iotblr.org</a>
-    letting us know that you do not have a team. We will then try to help you form a team
-    .However, applications received as a team have an
+    letting us know that you do not have a team. We will then try to help you form a team.
+    However, applications received as a team have an
     advantage and are more likely to be selected than applications from individuals who do
     not have a team that can build the prototype.
 </div>
@@ -70,7 +70,7 @@
     <li>
         Your IP remains yours and the organisers do not claim ownership to any of your
 
-        work as part of this event.
+        work as part of this event. However, all teams will be required to upload their projects on Instructables, which may make it prior art.
     </li>
     <li>
         However, you are encouraged to open source your projects and foster

@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2616c73-9625-454d-b3bd-e75b972d13f0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/cleen_city.jpg" afterPath="$PROJECT_DIR$/src/images/cleen_city.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/iot1.png" afterPath="$PROJECT_DIR$/src/images/iot1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/logo.png" afterPath="$PROJECT_DIR$/src/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/slider1.png" afterPath="$PROJECT_DIR$/src/images/slider1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/slider2.png" afterPath="$PROJECT_DIR$/src/images/slider2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/slider3.png" afterPath="$PROJECT_DIR$/src/images/slider3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/slider4.png" afterPath="$PROJECT_DIR$/src/images/slider4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/slider5.png" afterPath="$PROJECT_DIR$/src/images/slider5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact-Us.php" afterPath="$PROJECT_DIR$/Contact-Us.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Equipment.php" afterPath="$PROJECT_DIR$/Equipment.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rules.php" afterPath="$PROJECT_DIR$/Rules.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Schedule.php" afterPath="$PROJECT_DIR$/Schedule.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Selection-Criteria.php" afterPath="$PROJECT_DIR$/Selection-Criteria.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Testing" afterPath="$PROJECT_DIR$/Testing" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Why-Participate.php" afterPath="$PROJECT_DIR$/Why-Participate.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/Apply/page-des.txt" afterPath="$PROJECT_DIR$/content/Apply/page-des.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/Equipment/page-des.txt" afterPath="$PROJECT_DIR$/content/Equipment/page-des.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/Rules/Rules.txt" afterPath="$PROJECT_DIR$/content/Rules/Rules.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/Why-Participate/Why-Participate.txt" afterPath="$PROJECT_DIR$/content/Why-Participate/Why-Participate.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/Why-Participate/page-des.txt" afterPath="$PROJECT_DIR$/content/Why-Participate/page-des.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mailto.php" afterPath="$PROJECT_DIR$/mailto.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/footer.php" afterPath="$PROJECT_DIR$/src/lib/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib/header.php" afterPath="$PROJECT_DIR$/src/lib/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/theme/css/main.css" afterPath="$PROJECT_DIR$/src/theme/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/theme/css/sidstyle.css" afterPath="$PROJECT_DIR$/src/theme/css/sidstyle.css" />
-    </list>
+    <list default="true" id="a2616c73-9625-454d-b3bd-e75b972d13f0" name="Default" comment="" />
     <ignored path="ioblr.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />

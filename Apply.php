@@ -17,7 +17,7 @@ include "src/helpers/display_images.php";
 <body>
 
 <?php include 'src/lib/header.php'; ?>
-<?php include 'src/lib/slider.php'; ?>
+<?php //include 'src/lib/slider.php'; ?>
 
 <div class="container">
     <?php echo file_get_contents("content/Apply/page-des.txt"); ?>
