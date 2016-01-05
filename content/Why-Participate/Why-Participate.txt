@@ -37,7 +37,7 @@ Showcase happening as part of the Vision Summit across the road at the Leela Pal
     We have lined up great prizes for the Makeathon! <br><br>
     <ul>
         <li>
-            a. There is a significant prize pool for teams that can outclass the rest!
+            There is a significant prize pool for teams that can outclass the rest!
             <ul>
             <li>1st Prize: INR 1,00,000/- </li>
             <li>2nd Prize: INR 75,000/- </li>
@@ -45,13 +45,14 @@ Showcase happening as part of the Vision Summit across the road at the Leela Pal
             </ul>
         </li>
         <li>
-           Top 3 teams will get prototyping support from INDIC – support, guidance and
+           Top 3 teams will get prototyping support from <a href='http://indicelectronics.com/'>INDIC</a> – support, guidance and
            costs (except materials) for up to 3 rounds of prototyping
         </li>
         <li>
-            Top 3 teams will get an opportunity to get incubated at Revvx, to take their Proof
+            Top 3 teams will get an opportunity to get incubated at <a href='http://www.revvx.com/'>Revvx</a>, to take their Proof
             of Concept forward towards productization
         </li>
+        <li>
             All teams will get the opportunity to speak to potential customers at Vision
             Summit and beyond, through IESA’s network
         </li>

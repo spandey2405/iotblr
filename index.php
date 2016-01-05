@@ -30,20 +30,23 @@ include "src/helpers/display_images.php";
 </section>
 <br><br>
 <div class="bg-white">
-    <center><h3>A 2-day Makeathon to build Connected Devices, on Feb 3-4 2016, at Sterlings Mac Hotel, Bangalore. Come join us to learn, hack and have some fun!.<h3>
-    <input type="button" class="btn btn-green" onclick="location.href='Apply.php'" value="Apply Now">
+    <center><h3>A 2-day Makeathon to build Connected Devices, on Feb 3-4 2016.<br>
+            Come join us to learn, hack and have some fun!
+            <br><br><input type="button" class="btn btn-blue" onclick="location.href='Apply.php'" value="Apply Now">
+            <h3>
+
     </center>
 </div>
 <br><br>
 <div class="bg-white">
     <h3>PRESENTED BY </h3>
-    <img src="src/images/Presentor1.jpeg" height="150">
-    <img src="src/images/Presentor2.jpeg" height="80">
+    <a href="http://iesaonline.org/"><img src="src/images/Presentor1.jpeg" height="150"></a>
+    <a href="http://www.iotblr.org"><img src="src/images/Presentor2.jpeg" height="80"></a>
     <h3> AT </h3>
-    <img src="src/images/Presentor3.png" height="80">
+    <a href="http://www.iesaonline.org/vs2016/index.html"><img src="src/images/Presentor3.png" height="80"></a>
     <br><br>
     <h3>MAKEATHON PARTNER:</h3>
-    <img src="src/images/int_lookins_i_rgb_3000.png" height="150" style="margin-left: 100px">
+    <a href="http://www.intel.in/"><img src="src/images/int_lookins_i_rgb_3000.png" height="150" style="margin-left: 100px"></a>
     <br><br>
 </div>
 <?php include 'src/lib/footer.php'; ?>
