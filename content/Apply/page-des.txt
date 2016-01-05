@@ -6,7 +6,7 @@ Thank you for your interest in applying to the IESA and IoTBLR Connected Devices
 To increase your chances of being invited to participate in this event, apply with a great idea
 
 and a complete team!<br><br>
-<p><input type="button" class="btn btn-blue" value="Application Form"></p><br>
+<p><a href="http://goo.gl/forms/MouQp2LSQj" class="btn btn-blue" value="Application Form"></p><br>
 <p><b>Application Deadline: 6:00 PM on Thursday, Jan 28, 2016</b>
 </div>
 <div class="row" style="padding:20px; font-size:17px; width:96%" >
