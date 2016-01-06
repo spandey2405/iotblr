@@ -22,7 +22,7 @@ include "src/helpers/display_images.php";
 <?php //include 'src/lib/slider.php'; ?>
 <br><br>
 <div class="bg-white">
-    <center><h3>The IESA and IoTBLR Connected Devices Makethon<h3></center>
+    <center><h3>The IESA and IoTBLR Connected Devices Makeathon<h3></center>
 </div>
 <section id="photos"><br><br>
 <center><img src="images/6.png"></center>
