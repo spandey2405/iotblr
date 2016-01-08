@@ -11,7 +11,7 @@ include "src/helpers/display_images.php";
 
 <html>
 <head>
-    <title>Home | IOTBLR</title>
+    <title>IESA IoTBLR Makeathon</title>
     <?php display_header_files(); ?>
     <style>
         .col-sm-12 li {

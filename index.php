@@ -12,7 +12,7 @@ include "src/helpers/display_images.php";
 
 <html>
 <head>
-    <title>Home | IOTBLR</title>
+    <title>IESA IoTBLR Makeathon</title>
     <?php display_header_files(); ?>
 </head>
 <body>
