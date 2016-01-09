@@ -15,7 +15,7 @@ include "src/helpers/display_images.php";
     <?php display_header_files(); ?>
 </head>
 <body>
-
+<?php include_once ('src/analytics.php'); ?>
 <?php include 'src/lib/header.php'; ?>
 
 <div class="container">
@@ -26,8 +26,45 @@ include "src/helpers/display_images.php";
             <div class='col-sm-12'>
 
                 <?php echo file_get_contents("content/Equipment/Equipment.txt"); ?>
-                <br><br>
-            </div>
+                <div class='col-sm-8'>
+                <div class="bg-white">
+                    <table class="table table-striped">
+                        <thead>
+                        <tr>
+                            <th>Item</th>
+                            <th>Quantity</th>
+                        </tr>
+                        </thead>
+                        <tbody><tr><td>Intel Edison</td><td>10</td></tr><tr><td>
+                                Grove sensor kit</td><td>10</td></tr><tr><td>
+                                Multimeter</td><td>5</td></tr><tr><td>
+                                Glue gun + glue sticks</td><td>2</td></tr><tr><td>
+                                Soldering station</td><td>2</td></tr><tr><td>
+                                Wire stripper</td><td>5</td></tr><tr><td>
+                                Breadboard</td><td>10</td></tr><tr><td>
+                                Transistors (NPN)</td><td>50</td></tr><tr><td>
+                                Transistors (PNP)</td><td>50</td></tr><tr><td>
+                                Diodes -1N4007</td><td>50</td></tr><tr><td>
+                                Diodes -1N4148</td><td>50</td></tr><tr><td>
+                                Zener -3.3V</td><td>50</td></tr><tr><td>
+                                LEDs - 4 Colors - 3mm</td><td>20 each</td></tr><tr><td>
+                                Potentiometer screw type - 1K</td><td> 10K</td></tr><tr><td>
+                                Opamps - LM324 </td><td>LM339</td></tr><tr><td>
+                                ULN2003 - IC</td><td>20</td></tr><tr><td>
+                                Push Button On/Off switch</td><td>20</td></tr><tr><td>
+                                Tactile Switch</td><td>20</td></tr><tr><td>
+                                General Purpose PCB</td><td>20</td></tr><tr><td>
+                                Assorted Resistor Box</td><td>10</td></tr><tr><td>
+                                Assorted Capacitor Box</td><td>10</td></tr><tr><td>
+                                Single strand wire - 3 colors</td><td>20m each</td></tr><tr><td>
+                                Multistrand wire - 3 colors</td><td>20m each</td></tr><tr><td>
+                                Breadboard jumper cables</td><td>50</td></tr></tbody>
+                    </table>
+                </div>
+
+                    </div><br>
+
+</div>
         </div>
     </div>
 </div>

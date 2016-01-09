@@ -21,6 +21,7 @@ function display_header_files() {
     <link rel=\"stylesheet\" href=\"src/theme/css/main.css\">
     <link rel='stylesheet' href='src/slider/slider.css'>
     <link rel=\"stylesheet\" href=\"src/theme/css/sidstyle.css\">";
+
 }
 
 ?>

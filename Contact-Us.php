@@ -15,7 +15,7 @@ include "src/helpers/display_images.php";
     <?php display_header_files(); ?>
 </head>
 <body>
-
+<?php include_once ('src/analytics.php'); ?>
 <?php include 'src/lib/header.php'; ?>
 <div class="container">
 

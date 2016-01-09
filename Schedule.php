@@ -101,7 +101,7 @@ include "src/helpers/display_images.php";
     </style>
 </head>
 <body>
-
+<?php include_once ('src/analytics.php'); ?>
 <?php include 'src/lib/header.php'; ?>
 
 
