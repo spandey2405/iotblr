@@ -45,7 +45,7 @@ include "src/helpers/display_images.php";
     <h3> AT </h3>
     <a href="http://www.iesaonline.org/vs2016/index.html"><img src="src/images/Presentor3.png" height="80"></a>
     <br><br>
-    <h3>MAKEATHON PARTNER</h3>
+    <h3>MAKEATHON PARTNERS</h3>
     <a href="http://www.intel.in/"><img src="images/thumbnail.jpg" height="80" style="margin-left: 50px"></a>
     <a href="http://www.tcs.com/"><img src="images/tcslogo.jpg" height="100" style="margin-left: 50px"></a>
     <br><br><br><br>
