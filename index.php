@@ -47,6 +47,7 @@ include "src/helpers/display_images.php";
     <br><br>
     <h3>MAKEATHON PARTNER</h3>
     <a href="http://www.intel.in/"><img src="images/thumbnail.jpg" height="80" style="margin-left: 50px"></a>
+    <a href="http://www.tcs.com/"><img src="images/tcslogo.jpg" height="100" style="margin-left: 50px"></a>
     <br><br><br><br>
 </div>
 <?php include 'src/lib/footer.php'; ?>
