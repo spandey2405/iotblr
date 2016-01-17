@@ -49,7 +49,7 @@ Showcase happening as part of the Vision Summit across the road at the Leela Pal
            costs (except materials) for up to 3 rounds of prototyping
         </li>
         <li>
-            Top 3 teams will get an opportunity to get incubated at <a href='http://www.revvx.com/'>Revvx</a>, to take their Proof
+            Top 3 teams will get an opportunity to get incubated at <a href='http://www.revvx.com/'>RevvX Hardware Accelerator </a> will mentor the winning teams from the makeathon to go towards productization, to take their Proof
             of Concept forward towards productization
         </li>
         <li>
