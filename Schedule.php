@@ -125,7 +125,7 @@ include "src/helpers/display_images.php";
                     , '17:00 - 18:00', '18:00 - 19:30', '19:30 - 20:00', '20:00 - 21:00' ,'21:00 - 0:00', '0:00'
                 ];
                 $eventname = ['Breakfast mixer', 'Welcome note, agenda, rules',
-                    'Introduction to experts, distribution of equipment', 'Makeathon',
+                    'Introduction to experts, distribution of equipment', 'Introduction to Intel Edison kit and TCS\' TCUP platform ',
                     'Lunch', 'Makeathon', 'Tea and Progress check', 'Makeathon',
                     'Dinner', 'Progress check', 'Makeathon', 'End of Day 1 (participants are welcome to build overnight if
 

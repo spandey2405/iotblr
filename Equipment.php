@@ -36,7 +36,8 @@ include "src/helpers/display_images.php";
                         </tr>
                         </thead>
                         <tbody><tr><td>Intel Edison</td><td>10</td></tr><tr><td>
-                                Grove sensor kit</td><td>10</td></tr><tr><td>
+                                <a href="http://www.seeedstudio.com/depot/Grove-starter-kit-plus-Intel-IoT-Edition-for-Intel-Galileo-Gen-2-and-Edison-p-1978.html">
+                                    Grove Sensor Kit Plus</a></td><td>10</td></tr><tr><td>
                                 Multimeter</td><td>5</td></tr><tr><td>
                                 Glue gun + glue sticks</td><td>2</td></tr><tr><td>
                                 Soldering station</td><td>2</td></tr><tr><td>
@@ -64,13 +65,11 @@ include "src/helpers/display_images.php";
 
                     </div><br>
 
-</div>
+            </div>
         </div>
     </div>
 </div>
-
 <?php include 'src/lib/footer.php'; ?>
-
 <script src="src/theme/js/template.js"></script>
 <script src="src/theme/js/jquery.sequence-min.js"></script>
 </body>

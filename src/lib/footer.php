@@ -14,12 +14,12 @@ echo '<div class="kode-event-contact">
                     <h3>Contact Us</h3>
                     <div class="row">
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                            <input type="text" placeholder="Your Name" id="name">
-                            <input type="email" placeholder="Your email" id="email">
-                            <input type="text" placeholder="Subject" id="subject">
+                            <input type="text" placeholder="Your Name" id="name" required>
+                            <input type="email" placeholder="Your email" id="email" required>
+                            <input type="text" placeholder="Subject" id="subject" required>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                            <textarea name="Message" cols="30" rows="10" id="message" placeholder="Your Message" style="height: 195px"></textarea>
+                            <textarea name="Message" cols="30" rows="10" id="message" placeholder="Your Message" style="height: 195px" required></textarea>
                             <input type="button" value="Submit" name="submit" id="query" style="float: right;color: #fff;font: 16px/20px \'Montserrat\', Arial, Helvetica, sans-serif;padding: 10px 20px;outline: none; border: none;text-transform: capitalize;background-color: #00a4ef;">
                         </div>
                     </div>
