@@ -67,7 +67,5 @@ brainstorm with expert mentors, push yourself to rapidly prototype your idea, an
 fun doing it. We’ll provide you a super-charged environment, good food and great
 company. And all of this is being done to encourage the use of new technology in
 bringing new ideas to life, so there are no entry fees or participation charges. However,
-participation to this event is by selection only and limited to 8-10 teams, so <a href='Apply.php' class='btn btn-blue'>
-Apply Now </a>
-with a compelling idea and increase your chances of selection!
+participation to this event is by selection only and limited to 8-10 teams.
 </div>
