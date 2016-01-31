@@ -1,0 +1,17 @@
+<h2>Results</h2>
+
+<div class="row" style="padding:20px; font-size:17px; width:96%" >
+We are truly impressed by the high quality of applications received.
+The following teams have been selected to participate in the IESA & IoTBLR Connected Devices Makeathon.<br><br>
+
+<br>1. Smart AR Helmet
+<br>2. Dhan Monitering System
+<br>3. Smart Packaging Platform
+<br>4. Bedside Assistance in Hospitals
+<br>5. Data Collection from Farms Using IOT
+<br>6. Sense for Prosthetics
+<br>7. IOT Based Early Stage Detection Of Foot Ulcer And Diabetic Peripheral Neuropathy
+<br>8. ChargeAnywhere
+<br>9. Virtual Voice for Vocally Challenged People
+<br>10. Smart Adaptive Traffic Management Systems
+<br><br></div>

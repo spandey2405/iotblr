@@ -5,7 +5,7 @@
   "Equipment":"Equipment.php",
   "Schedule":"Schedule.php",
   "Rules":"Rules.php",
-  "Apply":"Apply.php",
+  "Results":"Results.php",
   "Contact Us":"Contact-Us.php"
 }
 

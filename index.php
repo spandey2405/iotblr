@@ -32,7 +32,7 @@ include "src/helpers/display_images.php";
 <div class="bg-white">
     <center><h3>A 2-day Makeathon to build Connected Devices, on Feb 3-4 2016.<br>
             Come join us to learn, hack and have some fun!
-            <br><br><input type="button" class="btn btn-blue" onclick="location.href='Apply.php'" value="Apply Now">
+            <br><br><input type="button" class="btn btn-blue" onclick="location.href='Results.php'" value="Results">
             <h3>
 
     </center>

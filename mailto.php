@@ -1,6 +1,8 @@
 <?php
 
 if($_POST) {
+    require("sendgrid-php/sendgrid-php.php");
+    $sendgrid = new SendGrid('YOUR_SENDGRID_APIKEY');
     $to = 'nihal.kashinath@iotblr.org';
     $name = $_POST['name'];
     $from = $_POST['email'];
